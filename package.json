@@ -1,0 +1,13 @@
+{
+  "name": "agentspread-config",
+  "private": true,
+  "description": "Shared AI agent skills, subagents, commands and hooks, rolled out by agentspread.",
+  "scripts": {
+    "setup": "agentspread setup",
+    "reconfigure": "agentspread reconfigure",
+    "lint": "agentspread lint"
+  },
+  "devDependencies": {
+    "agentspread": "1.0.0"
+  }
+}
