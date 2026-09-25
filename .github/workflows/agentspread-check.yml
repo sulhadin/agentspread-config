@@ -6,4 +6,4 @@ on:
   push:
 jobs:
   check:
-    uses: sulhadin/agentspread/.github/workflows/check.yml@v1.0.0
+    uses: sulhadin/agentspread/.github/workflows/check.yml@v1.1.0

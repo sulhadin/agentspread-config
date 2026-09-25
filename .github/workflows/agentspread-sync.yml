@@ -8,7 +8,7 @@ on:
       force: { description: "Allow rolling a repo back to an older tag", type: boolean, default: false }
 jobs:
   sync:
-    uses: sulhadin/agentspread/.github/workflows/sync.yml@v1.0.0
+    uses: sulhadin/agentspread/.github/workflows/sync.yml@v1.1.0
     with:
       ref: ${{ inputs.ref }}
       repo: ${{ inputs.repo }}
