@@ -4,5 +4,5 @@ name: release
 on: workflow_dispatch
 jobs:
   release:
-    uses: sulhadin/agentspread/.github/workflows/release.yml@v1.0.0
+    uses: sulhadin/agentspread/.github/workflows/release.yml@v1.1.0
     secrets: inherit
