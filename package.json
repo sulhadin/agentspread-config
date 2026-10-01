@@ -9,6 +9,6 @@
     "lint": "agentspread lint"
   },
   "devDependencies": {
-    "agentspread": "1.1.0"
+    "agentspread": "1.2.1"
   }
 }
